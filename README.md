@@ -6,7 +6,9 @@
 
 ## Connect With Me
 
-:money_mouth_face: **We are hiring**, reach out to us if you want to become part of the team.
+:money_mouth_face: **We are hiring**, reach out if you want to become part of the team.
+
+[![Miethe's GitHub stats](https://github-readme-stats.vercel.app/api?username=miethe)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left">
 <a href="https://twitter.com/miethe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="miethe" height="30" width="40" /></a>
